@@ -1,0 +1,3 @@
+[submodule "lib/ptvpy"]
+	path = lib/ptvpy
+	url = git@github.com:stevage/ptvpy.git
