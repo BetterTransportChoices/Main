@@ -4,11 +4,16 @@ Transport Alert is a mobile application which alerts users to localised road and
 
 Transport Alert was inspired by the [Victorian FireReady app](http://www.cfa.vic.gov.au/plan-prepare/fireready-app/) that notifies users of local fires and other emergencies.
 
-## Data sources used
+A prototype is available on [POP](https://popapp.in/w/projects/579d562a81201bbf39c85000/mockups/579d564a2fc58b953ed1cb57). It currently includes:
 
-The disruption screen displays a Google Map with two disruption layers:
+* The user's current location and a list of user-defined watch zones
+* Map and list views of a watch zone with current traffic conditions and disruptions
+* Details about specific disruptions
+* A share sheet for sharing disruption information to social media
 
-1. [Google Maps Traffic Layer](https://developers.google.com/maps/documentation/javascript/trafficlayer) (as VicRoads live traffic API was not available in time for GovHack)
+The disruption screen displays a Google Map with two layers:
+
+1. [Google Maps Traffic Layer](https://developers.google.com/maps/documentation/javascript/trafficlayer) displaying current traffic conditions (as VicRoads live traffic API was not available in time for GovHack)
 2. Real-time disruption information from the [PTV Timetable API](https://www.data.vic.gov.au/data/dataset/ptv-timetable-api). This needs to be parsed in two steps:
 
     1. Display PTV stops in the selected area
