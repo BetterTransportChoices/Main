@@ -1,6 +1,6 @@
 # Transport Alert
 
-Transport Alert is a mobile application which alerts users to localised road and public disruptions and events. Existing transport apps (such as official PTV apps and TripGo) make use of maps and timetable data but do not incorporate real-time disruptions.
+Transport Alert is a mobile application that alerts users to localised road and public disruptions and events. Existing transport apps (such as official PTV apps and TripGo) make use of maps and timetable data but do not incorporate real-time disruptions.
 
 Transport Alert was inspired by the [Victorian FireReady app](http://www.cfa.vic.gov.au/plan-prepare/fireready-app/) that notifies users of local fires and other emergencies.
 
@@ -18,3 +18,11 @@ The disruption screen displays a Google Map with two layers:
 
     1. Display PTV stops in the selected area
     2. Parse the text descriptions in the disruption data to correlate them with nearby stops (as disruption data does not provide geographical data)
+
+## The Team
+
+* Andrey Pakhomov – Project management and media
+* Rosa Kim – UX design
+* Wie Cahya – UI design
+* Claudine Chionh – Data discovery and development
+* Cin Khant – Data discovery and development
