@@ -1,6 +1,6 @@
 # Transport Alert
 
-This is a mobile application which alerts the user to localized road and public disruptions and events.
+Transport Alert is a mobile application which alerts the user to localized road and public disruptions and events.
 
 ## Data sources used
 
