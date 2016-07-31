@@ -11,6 +11,8 @@ A prototype is available on [POP](https://popapp.in/w/projects/579d562a81201bbf3
 * Details about specific disruptions
 * A share sheet for sharing disruption information to social media
 
+A video explanation is provided on [YouTube](https://youtu.be/IdgftHm7h6k).
+
 The disruption screen displays a Google Map with two layers:
 
 1. [Google Maps Traffic Layer](https://developers.google.com/maps/documentation/javascript/trafficlayer) displaying current traffic conditions (as VicRoads live traffic API was not available in time for GovHack)
